@@ -2,7 +2,7 @@
 
 ### Examples
 <p style="display: flex;align-items: center;justify-content: center;">
-  <img src="https://raw.githubusercontent.com/abpanchal95/Payment-Distribution/main/diagram.jpg" width="700" />
+  <img src="https://raw.githubusercontent.com/abpanchal95/Payment-Distribution/main/diagram.jpg" width="800" />
 </p>
 
 ### Dependencies
